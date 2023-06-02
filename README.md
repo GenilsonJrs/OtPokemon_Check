@@ -17,7 +17,7 @@ Esse projeto usa algumas ferramentas para o seu desenvolvimento:
 ### 🖱️ Instalando e executando
 Baixe o repositório e entre nele
 
-    git clone (https://github.com/GenilsonJunior99006/OtPokemon_Check.git)
+    git clone (https://github.com/GenilsonJrs/OtPokemon_Check.git)
 
 Em seguida é preciso baixar as bibliotecas
 
